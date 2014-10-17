@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pko:home|Door43 (pko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pko|d43-pko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pko/archive/master.zip|d43-pko.zip]]
+
+**Recent Changes**
+{{changes>ns = pko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pko|Ethnologue data]]
+
